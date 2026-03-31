@@ -6,38 +6,44 @@
   </a>
 </p>
 
-### 🎯 Proactive Leader & Builder
-[cite_start]Çanakkale Onsekiz Mart Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. [cite: 4, 37] [cite_start]Dijital sistemleri fiziksel dünyayla buluşturan, blockchain ve yapay zeka odaklı ölçeklenebilir çözümler geliştiriyorum. [cite: 6, 7, 9]
+### 🚀 About Me
+[cite_start]I am a third-year Computer Engineering student at Çanakkale Onsekiz Mart University [cite: 37] [cite_start]and a proactive leader dedicated to bridging digital systems with the physical world[cite: 4, 6]. [cite_start]My expertise involves architecting decentralized applications, developing LLM-based agentic workflows, and engineering hardware-software co-design solutions[cite: 7, 44].
 
 ---
 
 ## 🏆 Featured Projects
 
-* 🥈 **NeuralAir (Monad Blitz İzmir Hackathon - 2nd Place)**
-  [cite_start]Paralel EVM ve AI ajanlarını kullanarak geliştirdiğim merkeziyetsiz otonom havacılık ağı projesi. [cite: 25, 26]
+* [cite_start]🥈 **NeuralAir (Monad Blitz İzmir Hackathon - 2nd Place)** [cite: 25]
+  [cite_start]Decentralized Autonomous Aviation Network (DAAN) utilizing Parallel EVM execution, DePIN infrastructure, and AI agentic workflows[cite: 25, 26].
   
-* 🏍️ **InterKey (Founder & Project Lead)**
-  [cite_start]Çanakkale Teknopark Ön Kuluçka aşamasında olan, kuryeler için geliştirdiğim ESP32 tabanlı akıllı gidon kontrol sistemi. [cite: 11, 12, 27, 28]
+* [cite_start]🏍️ **InterKey (Founder & Project Lead)** [cite: 11]
+  [cite_start]An ESP32-based smart handlebar controller integrated with real-time mobile workflows, currently in the Çanakkale Teknopark Pre-Incubation stage[cite: 11, 12, 27, 28].
 
-* 🌐 **ilion7.web (Founder)**
-  [cite_start]Yerel işletmeler için yüksek performanslı web çözümleri ve dijital dönüşüm projeleri. 
-  👉 [İncelemek için Instagram](https://www.instagram.com/ilion7.web)
-
----
-
-## 🛠 Tech Stack
-
-![Move](https://img.shields.io/badge/Move-000000?style=flat-square&logo=sui&logoColor=white) 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+* [cite_start]🌐 **ilion7.web (Founder)** [cite: 17]
+  [cite_start]Delivering high-performance, responsive web applications and SEO-optimized digital solutions for local businesses[cite: 18].
+  👉 [Instagram Portfolio](https://www.instagram.com/ilion7.web)
 
 ---
 
-## 🛩️ Extracurricular
-* [cite_start]**ÇOMÜ Havacılık Topluluğu Başkanı:** 1000'den fazla üyeye liderlik ediyor, İHA operasyonları ve teknik eğitimler koordine ediyorum. [cite: 5, 13, 14, 46]
-  👉 [Topluluk Web Sitemiz](https://comuhavacilikkulubu.vercel.app/)
+## 🛠 Tech Stack & Expertise
+
+### 🔗 Web3 & Blockchain Ecosystem
+[cite_start]![Move](https://img.shields.io/badge/Move-000000?style=flat-square&logo=sui&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Monad](https://img.shields.io/badge/Monad-5F19E6?style=flat-square&logo=monad&logoColor=white) ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=flat-square&logo=sui&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) [cite: 7, 16, 34, 43]
+
+### 🤖 AI, Automation & Neural Orchestration
+[cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LLM Agents](https://img.shields.io/badge/LLM--Agents-FF6F00?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-Implementation-blueviolet?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer--Vision-5C3EE8?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) [cite: 7, 34, 42, 45]
+
+### 💻 Full-Stack Development
+[cite_start]![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js 14](https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=next.js&logoColor=white) ![React 18](https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) [cite: 30, 33, 41, 45]
+
+### ⚙️ Hardware-Software Co-Design & Robotics
+[cite_start]![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded--C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![MAVLink](https://img.shields.io/badge/MAVLink-007ACC?style=flat-square) [cite: 8, 12, 26, 28, 44]
+
+---
+
+## 🛩️ Extracurricular & Leadership
+* [cite_start]**President of ÇOMÜ Aviation Club:** Managing a community of 1000+ members and coordinating technical UAV training programs[cite: 1, 5, 13, 14, 46].
+  👉 [Club Website](https://comuhavacilikkulubu.vercel.app/)
 
 ---
 
@@ -50,5 +56,5 @@
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-ka%C5%9Fikci-4802831a9)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasankasikci80@gmail.com)
+[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-ka%C5%9Fikci-4802831a9) [cite: 3]
+[cite_start][![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasankasikci80@gmail.com) [cite: 3]
